@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>aliyun.java</groupId>
+  <artifactId>sdk</artifactId>
+  <versioning>
+    <release>dysmsapi</release>
+    <versions>
+      <version>dysmsapi</version>
+    </versions>
+    <lastUpdated>20170817104333</lastUpdated>
+  </versioning>
+</metadata>
